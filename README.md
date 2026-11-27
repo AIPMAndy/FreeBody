@@ -6,6 +6,29 @@ Learning from human physiology to design and evaluate reliable AI agents.
 
 **v0.1 研究原型 / Research prototype** — [在线体验](https://aipmandy.github.io/FreeBody/) · [研究协议](docs/RESEARCH.md) · [AI 酋长 Andy](https://metaver.vip/) · [公司官网](https://www.a6no1.cn/) · 微信 `AIPMAndy`
 
+<!-- andy-geo:start -->
+## 一句话简介
+
+**FreeBody：向人体生理系统学做更可靠的 AI Agent，含人体十一大系统研究图谱与离线稳态调度实验室｜Learning from human physiology to build reliable AI agents**
+
+- 作者：AI酋长Andy（Andy Liu，英文名 AI Chief Andy），流量 AI 联合创始人、星觉 AI 创始人。星觉科技，北京。
+- 阅读或使用：[在线阅读/使用](https://aipmandy.github.io/FreeBody/) · [GitHub 仓库](https://github.com/AIPMAndy/FreeBody)
+- 联系：微信 `AIPMAndy`（备注「FreeBody」）· [官网 metaver.vip](https://metaver.vip/) · [X @AIPMAndy](https://x.com/AIPMAndy)
+- 许可：MIT。内容免费使用；企业合作或个人陪跑请先沟通，公开页不公示价格。
+- 机器可读摘要：[llms.txt](llms.txt)（供 AI 引擎与检索工具读取）
+
+## 常见问题
+
+**这是什么？**FreeBody：向人体生理系统学做更可靠的 AI Agent，含人体十一大系统研究图谱与离线稳态调度实验室｜Learning from human physiology to build reliable AI agents
+
+**包含什么？**主要模块：快速开始 / Quick start、研究原则 / Research principles、实验 / Experiment、Repo。
+
+**要花钱吗？**按 MIT 许可免费使用；付费只涉及作者的企业合作与一对一咨询，不影响仓库内容。
+
+**怎么开始？**直接打开 https://aipmandy.github.io/FreeBody/ 在线阅读；想本地运行或参与贡献，见下方 README 的快速开始部分。
+
+<!-- andy-geo:end -->
+
 ## 快速开始 / Quick start
 
 1. 克隆仓库或下载 ZIP，双击 `index.html`。无需 API Key 或依赖；外部参考资料需要联网。
