@@ -4,7 +4,7 @@
 
 Learning from human physiology to design and evaluate reliable AI agents.
 
-**v0.1 研究原型 / Research prototype** — AI 酋长 Andy · [个人官网](https://metaver.vip/)
+**v0.1 研究原型 / Research prototype** — [在线体验](https://aipmandy.github.io/FreeBody/) · [研究协议](docs/RESEARCH.md) · [AI 酋长 Andy](https://metaver.vip/) · [公司官网](https://www.a6no1.cn/) · 微信 `AIPMAndy`
 
 ## 快速开始 / Quick start
 
@@ -39,3 +39,7 @@ See [research protocol](docs/RESEARCH.md) for hypotheses, confounds, references 
 GitHub Pages: select Settings → Pages → Deploy from a branch → main → /(root). Verify the published URL and all scenarios.
 
 License: MIT for original code; third-party references retain their respective rights. No third-party illustrations or article text reproduced.
+
+---
+
+**AI 酋长 Andy · 星觉科技** — [在线体验](https://aipmandy.github.io/FreeBody/) · [个人官网](https://metaver.vip/) · [公司官网](https://www.a6no1.cn/) · 微信 `AIPMAndy` · [GitHub](https://github.com/AIPMAndy)
